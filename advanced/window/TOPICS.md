@@ -1,0 +1,11 @@
+# Topics
+
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- SUM() OVER()
+- COUNT() OVER()
+- LAG()
+- LEAD()
+- PARTITION BY
+- ORDER BY in OVER()
