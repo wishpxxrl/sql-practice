@@ -1,0 +1,1 @@
+Basic SQL practice queries.
