@@ -10,20 +10,22 @@ This repository contains my SQL practice queries and solutions while learning da
 
 ## 📂 Folder Structure
 ```
+sql-practice/
+
 basic/
-├── fundamentals/
-├── joins_groupby/
-└── subquery_cte_intro/
+├── fundamentals/        # 단일 테이블 조회 및 기본 함수
+├── joins_groupby/       # JOIN과 집계의 기초
+└── subquery_cte_intro/  # 서브쿼리 및 CTE 기본 구조
 
 intermediate/
-├── fundamentals/
-├── joins_groupby/
-└── subquery_cte/
+├── fundamentals/        # 조건 응용 및 함수 활용 심화
+├── joins_groupby/       # JOIN + GROUP BY 조합 문제
+└── subquery_cte/        # 상관 서브쿼리 및 CTE 활용
 
 advanced/
-├── window/
-├── cte_window/
-└── optimization_patterns/
+├── window/                 # 윈도우 함수 전반
+├── cte_window/             # CTE + 윈도우 조합 패턴
+└── optimization_patterns/  # 성능 및 자주 틀리는 패턴
  ```
 
 ## 📚 Topics Covered
