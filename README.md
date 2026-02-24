@@ -10,10 +10,20 @@ This repository contains my SQL practice queries and solutions while learning da
 
 ## 📂 Folder Structure
 ```
-sql-practice/
- ├─ basic/
- ├─ intermediate/
- ├─ advanced/
+basic/
+├── fundamentals/
+├── joins_groupby/
+└── subquery_cte_intro/
+
+intermediate/
+├── fundamentals/
+├── joins_groupby/
+└── subquery_cte/
+
+advanced/
+├── window/
+├── cte_window/
+└── optimization_patterns/
  ```
 
 ## 📚 Topics Covered
