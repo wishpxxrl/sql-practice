@@ -1,1 +1,5 @@
-
+### TOPICS
+- SELECT/WHERE/ORDER
+- CASE
+- NULL
+- DATE
