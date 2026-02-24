@@ -1,1 +1,4 @@
-
+### TOPIC
+- JOIN
+- GROUP BY
+- HAVING
