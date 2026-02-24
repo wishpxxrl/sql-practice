@@ -1,0 +1,11 @@
+# Topics
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- JOIN 조건 (ON, 다중 조건)
+- GROUP BY
+- HAVING
+- 집계 함수 (COUNT, SUM, AVG, MIN, MAX)
+- GROUP BY + ORDER BY
+- JOIN + GROUP BY 기초 조합
